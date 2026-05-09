@@ -36,6 +36,8 @@
         '<(ABSEIL_ROOT)/absl/base/internal/endian.h',
         '<(ABSEIL_ROOT)/absl/base/internal/errno_saver.h',
         '<(ABSEIL_ROOT)/absl/base/internal/fast_type_id.h',
+        '<(ABSEIL_ROOT)/absl/base/internal/hardening.h',
+        '<(ABSEIL_ROOT)/absl/base/internal/hardening.cc',
         '<(ABSEIL_ROOT)/absl/base/internal/hide_ptr.h',
         '<(ABSEIL_ROOT)/absl/base/internal/identity.h',
         '<(ABSEIL_ROOT)/absl/base/internal/iterator_traits.h',
